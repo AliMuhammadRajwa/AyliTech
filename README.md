@@ -1,4 +1,7 @@
 Click the badge which says 'Open in Colab' and follow directions there.
+<a  class "btn btn-bg" href="https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 
 ### What is the purpose of it?
 If you want to download a Folder in Zip File Google Does that For you But Google will Zip the File in Parts..
